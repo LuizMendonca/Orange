@@ -1,0 +1,22 @@
+Hyerachical clustering
+1- Criar um file com o Iris
+2- Conectar a um widget Distances
+3- Conectar o Distances a um widget Hierarchical Clustering
+4- Parece que o clustering fez sentido, pois flores da mesma espécie estão juntas
+5- Marcar uma área em que tem umas confusões
+6- Criar o scatter plot pra visualizar todas as flores
+7- Agora conectar o clustering com o scatter plot
+8- Agora a gente pode clicar em partes da arvore para verificar as suas posições no scatter plot
+9- Mostrar como funciona a arvore de classificação
+10 - Conectar um file com uma classification Tree e em seguida a um Classification tree viewer
+11- Agora esta na hora de fazer previsões
+12- Criar os arquivos treinamento e teste com os links abaixo:
+https://raw.githubusercontent.com/ajdapretnar/datasets/master/data/fruits-and-vegetables-train.tab
+teste:
+https://raw.githubusercontent.com/ajdapretnar/datasets/master/data/fruits-and-vegetables-test.tab
+13- Renomear os Files para Treinamento e Teste, respectivamente
+14- Conectar o File teste para um widget Predictions(Queremos saber o que são)
+15- Abrir o predictions
+16- Agora conectar a arvore de classificação ao predictions
+17- Criar agora um linear regression, e conecta-lo ao predictions
+18 - Kiwi, Aspargo e Razberry

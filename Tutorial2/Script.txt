@@ -1,0 +1,11 @@
+1- Conectar o File a uma Box Plot, Scatter Plot e Data Table
+2- Verificar se estão conectados
+3- Conectar a DataTable ao Scatter Plot
+4- Escolher uns dados aleatorios da Data Table para serem colocados no scatter plot
+5- Clicar na conexão do Data Table/ScatterPlot para verificar o que está sendo enviado
+6- Clicar em Data para mostrar a mudança no Scatter Plot 
+7- Mostrar como remover a conexão com o botão direito
+8- Mostrar como importar uma spredsheet do google/Excel(d - discreto, c - continuo)
+9- Se importar de forma errada os atributos, abrir um widget chamado Select Columns
+10- Trocar a target variable com a que estiver errada
+11- Mostrar como salvar dados utilizando o Save Data widget

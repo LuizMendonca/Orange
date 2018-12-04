@@ -1,0 +1,12 @@
+1- Criar um widget file(escolher qual dataset)
+2- Criar um widget Data Table 
+3- Conectar o File ao Data Table
+4- Mostrar o conteudo do Data Table
+5- Criar um widget Distributions a partir da conexão do File
+6- Mostrar o conteudo de Distributions
+7- Agora criar um Scatter Plot para mostrar outra forma de visualizar os dados
+8- Abrir o Scatter Plot -> Clicar no botão "Find informative projections"
+9- Escolher a melhor projeção
+10-Selecionar uma parte dos dados
+11-Criar agora uma tabela a partir do Scatter Plot para mostrar os dados selecionados
+12-Selecionar para mostrar valores numéricos

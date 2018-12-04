@@ -1,0 +1,9 @@
+1- Mostrar como fazer o KNN
+2- Explicar o que os dados significam na ultima janela de testes e resultados
+AUC> Area under ROC curve
+CA > Acurácia da classificação
+Precision> Proporção de verdadeiro positivos entre instancias classificadas como positivas
+Recall > Propoção de verdadeirros positivos entre todos os positivos
+3- Mostrar as opções de teste(random sampling, quantidade de vezes repetir o treinamento, etc) 
+4- Aplicar avaliações no modeloo como curva ROC, matriz de confusão, etc.
+5- Verificar os que nao deram certo clicando em Missclassified e depois conectando a matriz de confusão a uma data table
